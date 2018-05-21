@@ -1,0 +1,55 @@
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34931&lastChangeId64=34931] (GET)connectionData[connectionData] 519 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 454 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=992&lastChangeId64=992] (GET)connectionData[connectionData] 1118 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34955&lastChangeId64=34955] (GET)connectionData[connectionData]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34955&lastChangeId64=34955] (GET)connectionData[connectionData] 561 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 268 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 253 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 359 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 247 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 241 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34955&lastChangeId64=34955] (GET)connectionData[connectionData] 761 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile] 389 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 258 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 247 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile] 609 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 571 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 267 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34957&lastChangeId64=34957] (GET)connectionData[connectionData]
+Web method response: [https://app.vssps.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=993&lastChangeId64=993] (GET)connectionData[connectionData] 1658 ms
+Web method running: [https://app.vssps.visualstudio.com/_apis/Licensing/ClientRights/VisualStudio?productVersion=14.0.25420.1%20D14REL&edition=Ultimate&relType=release&includeCertificate=true&canary=bf800359-fa1e-41d7-8c58-3a22fe0392bd&machineId=bf800359-fa1e-41d7-8c58-3a22fe0392bd&t-PidInfo=9010&t-UserMachineId=bf800359-fa1e-41d7-8c58-3a22fe0392bd&t-GlobalMachineId=3256df84-8035-4843-a08d-22d98621801f&t-VsInstanceId=5c7650c1-7e08-4874-afd8-4c5116cbd693] (GET)VisualStudio[Licensing]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/connectionData?connectOptions=IncludeServices&lastChangeId=34957&lastChangeId64=34957] (GET)connectionData[connectionData] 526 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me?details=true&withattributes=false&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll] (GET)me[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 284 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 357 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 237 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=558459] (GET)Attributes[Profile] 338 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 368 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=558459] (GET)Attributes[Profile]
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile]
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=558459] (GET)Attributes[Profile] 382 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 357 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 263 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile] 245 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&modifiedafterrevision=558459] (GET)Attributes[Profile] 395 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Small] (GET)Avatar[Profile] 366 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Avatar?size=Large] (GET)Avatar[Profile] 670 ms
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Locations?profilePageType=Update] (GET)Locations[Profile] 275 ms
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Settings/ProfileRefreshInterval] (GET)ProfileRefreshInterval[Profile]
+Web method running: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=558459] (GET)Attributes[Profile]
+Web method response: [https://vsspsextprodch1su1.vsspsext.visualstudio.com/_apis/Profile/Profiles/me/Attributes?partition=VisualStudio.14_PreferredProfile&withcoreattributes=true&coreattributes=Minimal%2CEmail%2CAvatar%2CDisplayName%2CAll&modifiedafterrevision=558459] (GET)Attributes[Profile] 318 ms

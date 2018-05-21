@@ -1,0 +1,28 @@
+<stylecopresultscache>
+  <version>12</version>
+  <project key="-348221010">
+    <configuration>DEBUG;TRACE</configuration>
+  </project>
+  <sourcecode name="ModelTests.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/10/23 23:25:38.651</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2018/01/05 21:40:01.133</sourceFile>
+      <parser>2017/10/23 23:25:38.651</parser>
+      <KellyPalRules.KellyPalAnalyzer>2017/10/23 23:25:38.651</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+  <sourcecode name="AssemblyInfo.cs" parser="StyleCop.CSharp.CsParser">
+    <timestamps>
+      <styleCop>2017/10/23 23:25:38.651</styleCop>
+      <settingsFile>0001/01/01 00:00:00.000</settingsFile>
+      <sourceFile>2017/12/21 17:33:07.871</sourceFile>
+      <parser>2017/10/23 23:25:38.651</parser>
+      <KellyPalRules.KellyPalAnalyzer>2017/10/23 23:25:38.651</KellyPalRules.KellyPalAnalyzer>
+      <KellyPalRules.KellyPalAnalyzer.FilesHashCode>0</KellyPalRules.KellyPalAnalyzer.FilesHashCode>
+    </timestamps>
+    <violations />
+  </sourcecode>
+</stylecopresultscache>
